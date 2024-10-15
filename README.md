@@ -5,8 +5,10 @@ I'm a full stack engineer with a focus on backend. I have a passion for developi
 
 ## Skills and Technologies 📖
 - Ruby on Rails
-- Python
 - JavaScript
+- SQL
+- HTML/CSS
+- GCP
 
 ## Past Experiences ☑️
 - Associate Back End Engineer at Loot (12/22 - Present)

@@ -23,7 +23,7 @@ I'm a full stack engineer with a focus on backend. I have a passion for developi
 
 ## Get in Touch 📫
 - Email: [tvonhake@outlook.com](mailto:tvonhake@outlook.com)
-- LinkedIn: [Click Here]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/trevorvonhake/))
+- LinkedIn: [Click Here](https://www.linkedin.com/in/trevorvonhake/)
 
 ## Fun Fact 🎹
 - I'm a classically trained pianist, and I love bouldering! 🪨

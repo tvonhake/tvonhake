@@ -35,5 +35,6 @@ I'm a full stack engineer with a focus on backend. I have a passion for developi
 ## Current Projects
 - A portfolio project that I started and should pick up again
   - a very crude project using next.js
+  - [click here](https://tvonhakeportfolio.vercel.app/) to see it in action
 - An app for my wife that tracks where we've eaten and suggests new places to eat
   - uses python (django), next.js, and google places api

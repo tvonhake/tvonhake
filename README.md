@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Trevor! 👋
 
-<!--
-**tvonhake/tvonhake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚴‍♂️
+I'm a full stack engineer with a focus on backend. I have a passion for developing efficient systems in collaborative environments. I enjoy working with Ruby and relational databases.
 
-Here are some ideas to get you started:
+## Skills and Technologies 📖
+- Ruby on Rails
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Experiences ☑️
+- Associate Back End Engineer at Loot (12/22 - Present)
+- Software Developer at Decisely Insurance Services (5/21 - 11/22)
+
+## Interests 🔎
+- Backend engineering
+- GraphQL and Rest APIs
+- Unit Testing
+- HTML Emails
+- AI and machine learning
+
+## Get in Touch 📫
+- Email: [tvonhake@outlook.com](mailto:tvonhake@outlook.com)
+- LinkedIn: [Click Here]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/trevorvonhake/))
+
+## Fun Fact 🎹
+- I'm a classically trained pianist, and I love bouldering! 🪨
+
+## I’m currently learning 🌱
+- Python (Django)
+- Next.js
+
